@@ -1,6 +1,5 @@
 # ADM---Homework2---Group-25
 ## Edoardo Di Martino, Giulia Luciani, Francesca Possenti
----
 
 ## Content description
 1. __`functions.py`__: 
