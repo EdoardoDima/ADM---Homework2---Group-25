@@ -1,4 +1,11 @@
 # ADM---Homework2---Group-25
 ## Edoardo Di Martino, Giulia Luciani, Francesca Possenti
+---
 
-###In this repository you will find
+## *Content description*
+1. __`functions.py`__: 
+	> This file contains the definition of the functions of the *module functions*.
+
+2. __`ADM2.ipynb`__: 
+	> This Jupyter notebook provides the implementation of each mini-program from exercise 2.
+
