@@ -6,5 +6,5 @@
 	> This file contains the definition of the functions of the *module functions*.
 
 2. __`ADM2.ipynb`__: 
-	> This Jupyter notebook provides the implementation of each mini-program from exercise 2.
+	> This Jupyter notebook provides the implementation of our solution.
 
