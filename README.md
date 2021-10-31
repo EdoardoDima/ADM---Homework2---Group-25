@@ -8,4 +8,3 @@
 2. __`ADM2.ipynb`__: 
 	> This Jupyter notebook provides the implementation of our solution.
 
-x
