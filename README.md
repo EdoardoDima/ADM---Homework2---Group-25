@@ -2,7 +2,7 @@
 ## Edoardo Di Martino, Giulia Luciani, Francesca Possenti
 ---
 
-## *Content description*
+## Content description
 1. __`functions.py`__: 
 	> This file contains the definition of the functions of the *module functions*.
 
